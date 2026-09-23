@@ -33,3 +33,4 @@ Google の「Android Basics with Compose」を学習した際の記録をまと�
 |---------|---------|
 | Kotlin の概要 | ✅ Completed |
 | Android Studio をセットアップする | ✅ Completed |
+| 基本的なレイアウトを作成する | 🔄 In Progress |
