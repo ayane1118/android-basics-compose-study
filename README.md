@@ -15,6 +15,8 @@ Google の「Android Basics with Compose」を学習した際の記録をまと�
 - 学習メモ
 
 ## 学習状況
+🚧 現在一時学習中断中
+再開予定時期：2027年2月頃
 
 - [ ] Unit 1: 初めてのAndroidアプリ
 - [ ] Unit 2: アプリUIを作成する
